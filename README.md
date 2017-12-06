@@ -36,6 +36,10 @@ To simplify communication with the public API
 # How
 Using the public [Journeys API](http://wiki.itsfactory.fi/index.php/Journeys_API#REST_styled_API)
 
+# Alternatives
+Haven't looked if there are alternatives -- there probably are. Or just
+simply use the public Journeys API directly :)
+
 # Test
 ```bash
 npm test
