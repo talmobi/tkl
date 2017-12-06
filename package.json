@@ -1,6 +1,6 @@
 {
   "name": "tkl",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tampereen Kaupunkiliikenne aka TKL API helper",
   "main": "index.js",
   "files": [
