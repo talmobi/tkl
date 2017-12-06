@@ -1,0 +1,35 @@
+{
+  "name": "tkl",
+  "version": "0.0.0",
+  "description": "Tampereen Kaupunkiliikenne aka TKL API helper",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "spacestandard --fix *.js",
+    "test": "node test/test.js | faucet"
+  },
+  "keywords": [
+    "tkl"
+  ],
+  "author": "talmobi <talmo.christian@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talmobi/tkl"
+  },
+  "bugs": {
+    "url": "https://github.com/talmobi/tkl/issues",
+    "email": "talmo.christian@gmail.com"
+  },
+  "dependencies": {
+    "dasu": "0.0.22"
+  },
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "spacestandard": "0.0.6",
+    "tape": "~4.8.0"
+  }
+}
