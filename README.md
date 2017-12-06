@@ -28,7 +28,7 @@ tkl.getVehicleActivity( function ( err, busses ) {
 ```
 
 # About
-Old code for an old prototype I decided to wrap into a npm module.
+Old code for an old prototype I decided to wrap into an npm module.
 
 # Why
 To simplify communication with the public API
